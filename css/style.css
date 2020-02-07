@@ -3,13 +3,13 @@ h1 {
     color: rgb(18, 19, 18);
 }
 body{
-    background-color: rosybrown;
+    background-color: #ffa31a;
 }
 .text-box {
-    border-left: 2px solid brown  ;
-    border-right:2px solid brown ;
-    border-top: 4px solid orange ;
-    border-bottom: 4px solid orange;
+    border-left: 10px solid blue  ;
+    border-right: 10px solid blue ;
+    border-top: 10px solid blue ;
+    border-bottom: 10px solid blue;
     width: 450px;
     float: left;
     padding: 10px;
