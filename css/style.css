@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: rgb(18, 19, 18);
+}
+body{
+    background-color: palegreen ;
+}
+.text-box {
+    border-left: 2px solid brown  ;
+    border-right:2px solid brown ;
+    border-top: 4px solid orange ;
+    border-bottom: 4px solid orange;
+    width: 450px;
+    float: left;
+    padding: 10px;
+    margin: 10px;
+}
+
+.unimportant {
+    color: red;
+}
