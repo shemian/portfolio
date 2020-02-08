@@ -10,10 +10,11 @@ body{
     border-right: 10px solid blue ;
     border-top: 10px solid blue ;
     border-bottom: 10px solid blue;
-    width: 450px;
+    width: 450px;                                                                   
     float: left;
     padding: 10px;
     margin: 10px;
+    font-size: large;
 }
 
 .unimportant {
@@ -21,4 +22,7 @@ body{
 }
 .any{
     color: blue;
+}
+.img {
+    float: left;
 }
