@@ -27,7 +27,12 @@ To run this website you need to install several thing
   git commit -m 'first commit'
   git remote add origin git@github.com:USER/PROJECT_NAME.git
   git push origin master
-      
+    
+    the live link to my repository
+    
+     https://github.com/shemian/portfolio.git
+     
+     
 Existing Git Repo?
   cd existing_git_repo
   git remote add origin git@github.com:USER/PROJECT_NAME.git
