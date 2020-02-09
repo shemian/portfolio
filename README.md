@@ -14,6 +14,28 @@ To run this website you need to install several thing
  To install it you can run this webpage and simply download vs code 
  Either on unbuntu or windows
  https://code.visualstudio.com/Download
+  Download and install Git
+  git config --add your user name and make sure you create an account 
+  
+  Then the next thing you have to do is:
+  
+  mkdir PROJECT_NAME
+  cd PROJECT_NAME
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:USER/PROJECT_NAME.git
+  git push origin master
+      
+Existing Git Repo?
+  cd existing_git_repo
+  git remote add origin git@github.com:USER/PROJECT_NAME.git
+  git push origin master
+
+You may also want to track the master branch for easy pull/push
+  git config branch.master.merge refs/heads/master
+  git config branch.master.remote origin
  
 # lisensing
 MIT License
